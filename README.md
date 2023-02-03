@@ -6,10 +6,13 @@ Currently, it is ever more common to access online services for activities which
 performance of 1% for the screen capture PAIS.
 
 # Template
+Under Construction
 
 # Transfer Texture
+Under Construction
 
 # Cited:
-
+Under Construction
 
 # License
+Under Construction
