@@ -25,4 +25,5 @@ Downloading texture: password request
 Under Construction
 
 # License
-Under Construction
+This work and the methods proposed are only for research purposes. Any implementation or commercial use modification
+must be analysed separately for each case to the email: juan.tapia-farias@h-da.de.
