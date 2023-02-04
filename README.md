@@ -6,7 +6,7 @@ This work explores three methods for synthetically generating ID card images to 
 performance of 1% for the screen capture PAIS.
 
 # Template
-ID Cards from different country tempalte can be generate as describe in our paper. The templates are not provided. A subset of images generated has been shared.
+ID Cards from different country template can be generate as describe in our paper. The templates are not provided. A subset of images generated has been shared.
 
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/45126159/216764780-74f28fca-45d8-4881-ad63-7a1b483435df.gif">
