@@ -1,5 +1,5 @@
 # Synthetic ID Card Image Generation for Improving Presentation Attack Detection - Complementary material.
-Daniel Benalcazar, Juan E. Tapia, Sebastian Gonzalez, and~Christoph Busch,
+Daniel Benalcazar, Juan E. Tapia, Sebastian Gonzalez, and Christoph Busch,
 
 This work explores three methods for synthetically generating ID card images to increase the amount of data while training fraud-detection networks. These methods include computer vision algorithms and Generative Adversarial Networks. Our results indicate that databases can be supplemented with synthetic images without any loss in performance for the print/scan Presentation Attack Instrument Species (PAIS) and a loss in
 performance of 1% for the screen capture PAIS.
